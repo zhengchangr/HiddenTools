@@ -6,6 +6,7 @@
 
 一个 macOS 菜单栏小工具：让指定软件“隐身”启动——不出现在 Dock 和 Cmd+Tab，需要时还能一键隐藏窗口并把该软件单独静音。
 
+[⬇️ 下载正式版](https://github.com/zhengchangr/HiddenTools/releases)
 ## 功能
 
 - 选择任意 `.app` 制作“隐藏副本”，启动后不占 Dock、不进 Cmd+Tab
