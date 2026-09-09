@@ -8,6 +8,10 @@
 	<string>隐藏工具</string>
 	<key>CFBundleExecutable</key>
 	<string>HiddenTools</string>
+	<key>CFBundleIconFile</key>
+	<string>AppIcon</string>
+	<key>CFBundleIconName</key>
+	<string>AppIcon</string>
 	<key>CFBundleIdentifier</key>
 	<string>com.caoyun.hiddentools</string>
 	<key>CFBundleInfoDictionaryVersion</key>
