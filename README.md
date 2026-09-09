@@ -53,3 +53,7 @@ cd HiddenTools
 ## 技术栈
 
 原生 Swift + AppKit + Swift Package Manager，无第三方依赖。
+
+## 开源许可
+
+本项目使用 [MIT License](LICENSE)。
