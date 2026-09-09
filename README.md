@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="HiddenTools/Resources/appicon.png" width="120" alt="隐藏工具图标"/>
+
+</div>
+
 # 隐藏工具（HiddenTools）
 
 一个 macOS 菜单栏小工具：让指定软件“隐身”启动——不出现在 Dock 和 Cmd+Tab，需要时还能一键隐藏窗口并把该软件单独静音。
